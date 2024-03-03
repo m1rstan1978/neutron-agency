@@ -1,0 +1,57 @@
+[
+  {
+    "background_image": "/assets/images/coupon/bank.webp",
+    "name": "Сбербанк Онлайн Казахстан",
+    "description": "Мобильное приложение для крупнейшего онлайн-банка Казахстана",
+    "categories": [
+      "Мобайл",
+      "Разработка"
+    ]
+  },
+  {
+    "background_image": "/assets/images/coupon/EL-Market.webp",
+    "name": "EL-Market",
+    "description": "Сайт для партнёров онлайн-агрегатора страховых услуг",
+    "categories": [
+      "Мобайл",
+      "Разработка"
+    ]
+  },
+  {
+    "background_image": "/assets/images/coupon/work.webp",
+    "name": "Работа.ру Алматы",
+    "description": "Мобильное приложение по поиску работы в Казахстане",
+    "categories": [
+      "Мобайл",
+      "Разработка"
+    ]
+  },
+  {
+    "background_image": "/assets/images/coupon/bank.webp",
+    "name": "Сбербанк Онлайн Казахстан3",
+    "description": "Мобильное приложение для крупнейшего онлайн-банка Казахстана",
+    "categories": [
+      "Мобайл",
+      "Разработка"
+    ]
+  },
+  {
+    "background_image": "/assets/images/coupon/bank.webp",
+    "name": "Сбербанк Онлайн Казахстан4",
+    "description": "Мобильное приложение для крупнейшего онлайн-банка Казахстана",
+    "categories": [
+      "Мобайл",
+      "Разработка"
+    ]
+  },
+  {
+    "background_image": "/assets/images/coupon/project.webp",
+    "name": "Ещё 28 проектов Neutron",
+    "description": "Ознакомьтесь со всеми нашими кейсами - уверены,Вы найдёте что-то для себя!",
+    "categories": [],
+    "other_description": "Смотреть все кейсы",
+    "other_img": "/assets/images/coupon/Arrow.svg"
+  }
+]
+
+

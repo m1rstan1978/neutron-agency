@@ -1,0 +1,30 @@
+@import 'variables';
+
+
+.dark-gradient-text {
+  background: var(--dark-blue-accent);
+  background: $darkGradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text {
+  background: var(--blue-accent);
+  background: $blueGradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+mark {
+  background: none;
+  color: var(--blue-accent);
+}
+
+.background-text {
+  background: var(--blue-gradient);
+  color: white
+}
+
+.accent-text {
+  color: var(--blue-accent);
+}
